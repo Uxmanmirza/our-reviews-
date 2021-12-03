@@ -33,4 +33,20 @@
     
     
 }
+#prev-button{
+    color: red;
+    background-color: saddlebrown;
+    height: 10px;
+
+}
+.buttons{
+    margin: 310px 0 50px 170px;
+    position: absolute;
+
+}
+.surButton{
+    margin: 340px 0 50px 195px;
+    position: absolute;
+
+}
 
