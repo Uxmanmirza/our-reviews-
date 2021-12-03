@@ -1,4 +1,36 @@
-.title{
-    color: aqua;
-    font-size: larger;
+.title {
+  color: aqua;
+  font-size: larger;
 }
+.review {
+  height: 450px;
+  width: 500px;
+  background-color:aquamarine;
+  display: flex;
+  position: relative;
+}
+
+#person-img {
+  border-radius: 50%;
+  height: 100px;
+  /* justify-content: center; */
+  padding: 40px;
+  margin: 20px 0 50px 150px;
+  position: absolute;
+}
+#author {
+  position: absolute;
+  margin: 180px 0 50px 200px;
+}
+#job{
+    position: absolute;
+    margin: 210px 0 50px 190px;
+
+}
+#info{
+    position: absolute;
+    margin: 240px 0 50px 70px;
+    
+    
+}
+
